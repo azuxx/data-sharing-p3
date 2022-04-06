@@ -1,6 +1,6 @@
 # data-sharing-p3
 
-Progetto di Programmazione Concorrente e Distribuita (A.A 2009/2010) - Project of Concurrent and Distributed Programming
+Progetto di Programmazione Concorrente e Distribuita (A.A 2009/2010) - Project of Concurrent and Distributed Programming (A.A 2009/2010)
 
 Titolo: Data Sharing
 
